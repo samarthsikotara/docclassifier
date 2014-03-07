@@ -19,7 +19,7 @@ include_once(mnminclude."groups.php");
 include_once(mnminclude."blog.php");
 
 
-    $work=$_REQUEST['work'];
+   // $work=$_REQUEST['work'];
 
 if($work==1){
     // getting the list of the interest list
